@@ -1,0 +1,9 @@
+<!ELEMENT medium (id,tracklist,release,position,format,name,edits_pending,last_updated)>
+<!ELEMENT id (#CDATA)>
+<!ELEMENT tracklist (#CDATA)>
+<!ELEMENT release (#CDATA)>
+<!ELEMENT position (#CDATA)>
+<!ELEMENT format (#CDATA)>
+<!ELEMENT name (#CDATA)>
+<!ELEMENT edits_pending (#CDATA)>
+<!ELEMENT last_updated (#CDATA)>

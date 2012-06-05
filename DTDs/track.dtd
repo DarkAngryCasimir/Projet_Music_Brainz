@@ -1,0 +1,11 @@
+<!ELEMENT track (id,recording,tracklist,position,name,artist_credit,length,edits_pending,last_updated,number)>
+<!ELEMENT id (#CDATA)>
+<!ELEMENT recording (#CDATA)>
+<!ELEMENT tracklist (#CDATA)>
+<!ELEMENT position (#CDATA)>
+<!ELEMENT name (#CDATA)>
+<!ELEMENT artist_credit (#CDATA)>
+<!ELEMENT length (#CDATA)>
+<!ELEMENT edits_pending (#CDATA)>
+<!ELEMENT last_updated (#CDATA)>
+<!ELEMENT number (#CDATA)>

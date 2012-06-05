@@ -1,0 +1,6 @@
+<!ELEMENT artist_credit (id,name,artist_count,ref_count,created)>
+<!ELEMENT id (#CDATA)>
+<!ELEMENT name (#CDATA)>
+<!ELEMENT artist_count (#CDATA)>
+<!ELEMENT ref_count (#CDATA)>
+<!ELEMENT created (#CDATA)>

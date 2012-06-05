@@ -1,0 +1,9 @@
+<!ELEMENT recording (id,gid,name,artist_credit,lenght,comment,edits_pending,last_updated)>
+<!ELEMENT id (#CDATA)>
+<!ELEMENT gid (#CDATA)>
+<!ELEMENT name (#CDATA)>
+<!ELEMENT artist_credit (#CDATA)>
+<!ELEMENT lenght (#CDATA)>
+<!ELEMENT comment (#CDATA)>
+<!ELEMENT edits_pending (#CDATA)>
+<!ELEMENT last_updated (#CDATA)>
