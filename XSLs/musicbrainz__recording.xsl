@@ -36,6 +36,6 @@
 				</xsl:when>
 			</xsl:choose>
 		</xsl:for-each>
-		<recording>
+		</recording>
 	</xsl:template>
 </xsl:stylesheet>
