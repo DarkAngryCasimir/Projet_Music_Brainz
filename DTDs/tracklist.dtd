@@ -1,4 +1,4 @@
 <!ELEMENT tracklist (id,track_count,last_updated)>
-<!ELEMENT id (#CDATA)>
-<!ELEMENT track_count (#CDATA)>
-<!ELEMENT last_updated (#CDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT track_count (#PCDATA)>
+<!ELEMENT last_updated (#PCDATA)>

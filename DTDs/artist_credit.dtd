@@ -1,6 +1,6 @@
 <!ELEMENT artist_credit (id,name,artist_count,ref_count,created)>
-<!ELEMENT id (#CDATA)>
-<!ELEMENT name (#CDATA)>
-<!ELEMENT artist_count (#CDATA)>
-<!ELEMENT ref_count (#CDATA)>
-<!ELEMENT created (#CDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT artist_count (#PCDATA)>
+<!ELEMENT ref_count (#PCDATA)>
+<!ELEMENT created (#PCDATA)>
