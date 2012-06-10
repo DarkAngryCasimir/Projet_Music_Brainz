@@ -1,0 +1,4 @@
+<!ELEMENT work_name_all (work_name*) >
+<!ELEMENT work_name (id,name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>

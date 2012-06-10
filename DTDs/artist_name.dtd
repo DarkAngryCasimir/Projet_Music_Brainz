@@ -1,0 +1,4 @@
+<!ELEMENT artist_name_all (artist_name*) >
+<!ELEMENT artist_name (id,name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>

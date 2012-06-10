@@ -1,0 +1,4 @@
+<!ELEMENT track_name_all (track_name*) >
+<!ELEMENT track_name (id,name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>

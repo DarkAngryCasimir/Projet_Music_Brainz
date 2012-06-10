@@ -1,0 +1,4 @@
+<!ELEMENT label_name_all (label_name*) >
+<!ELEMENT label_name (id,name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>

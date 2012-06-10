@@ -1,0 +1,4 @@
+<!ELEMENT release_name_all (release_name*) >
+<!ELEMENT release_name (id,name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
