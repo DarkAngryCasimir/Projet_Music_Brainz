@@ -1,3 +1,4 @@
+<!ELEMENT artist_credit_all (artist_credit*) >
 <!ELEMENT artist_credit (id,name,artist_count,ref_count,created)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT name (#PCDATA)>
