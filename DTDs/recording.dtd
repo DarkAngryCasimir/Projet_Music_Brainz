@@ -1,3 +1,4 @@
+<!ELEMENT recording_all (recording*) >
 <!ELEMENT recording (id,gid,name,artist_credit,lenght,comment,edits_pending,last_updated)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT gid (#PCDATA)>

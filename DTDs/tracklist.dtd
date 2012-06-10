@@ -1,3 +1,4 @@
+<!ELEMENT tracklist_all (tracklist*) >
 <!ELEMENT tracklist (id,track_count,last_updated)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT track_count (#PCDATA)>

@@ -1,3 +1,4 @@
+<!ELEMENT release_group_all (release_group*) >
 <!ELEMENT release_group (id,gid,name,artist_credit,type,comment,edits_pending,last_updated)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT gid (#PCDATA)>

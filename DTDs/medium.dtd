@@ -1,3 +1,4 @@
+<!ELEMENT medium_all (medium*) >
 <!ELEMENT medium (id,tracklist,release,position,format,name,edits_pending,last_updated)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT tracklist (#PCDATA)>

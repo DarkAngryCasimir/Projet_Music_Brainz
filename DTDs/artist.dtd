@@ -1,3 +1,4 @@
+<!ELEMENT artist_all (artist*) >
 <!ELEMENT artist (id,gid,name,sort_name,begin_date_year,begin_date_month,begin_date_day,end_date_year,end_date_month,end_date_day,type,country,gender,comment,edits_pending,last_updated,ended)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT gid (#PCDATA)>

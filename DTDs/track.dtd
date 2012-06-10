@@ -1,3 +1,4 @@
+<!ELEMENT track_all (track*) >
 <!ELEMENT track (id,recording,tracklist,position,name,artist_credit,length,edits_pending,last_updated,number)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT recording (#PCDATA)>

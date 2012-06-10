@@ -1,3 +1,4 @@
+<!ELEMENT work_all (work*) >
 <!ELEMENT work (id,gid,name,artist_credit,type,comment,edits_pending,last_updated,language)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT gid (#PCDATA)>
