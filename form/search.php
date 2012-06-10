@@ -145,7 +145,7 @@ $requete= $textchamps1." <DANS> ".$champs1;
 			print "</div>";						
 	
 			print "<table border='1'>";
-			print "<tr><td><b>De</b></td> <td><b>Sujet</b></td></tr>";
+			print "<tr><td><b>Artiste</b></td> <td><b>Titre chanson</b></td></tr>";
 			
 			
 			$nb = 0;
