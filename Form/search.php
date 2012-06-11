@@ -152,7 +152,7 @@ $requete= $textchamps1." <DANS> ".$champs1;
 		    for ( $i=0; $i < $nbvaleurs ; $i++ ) {
 			if(substr_count($fromArray[$i],$textchamps1)> 0 || substr_count($subjectArray[$i+1],$textchamps1)> 0  || 
 			substr_count($toArray[$i],$textchamps1)> 0 || substr_count($bodyArray[$i+1],$textchamps1)> 0 ){
-				print "<tr><td>".$fromArray[$i]."</td> <td>".$subjectArray[$i+1]."</td><td><a href = mail.php?id=".$idArray[$i].">Lire</a></td></tr>";
+				print "<tr><td>".$fromArray[$i]."</td> <td>".$subjectArray[$i+1]."</td><td><a href = details.php?id=".$idArray[$i].">Show details</a></td></tr>";
 				$nb++;
 			  }
 				
